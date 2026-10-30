@@ -27,14 +27,6 @@ Bacharel em Ciência da Computação (URI Santo Ângelo, 2026), em Santo Ângelo
 - **Avaliação antes de mudar.** Cada mudança de prompt ou de base passa por um conjunto fixo de pedidos, baseline e teste A/B pareado com avaliador cego. Ideia que não se confirma é revertida.
 - **Modelos intercambiáveis.** Gemini, OpenAI, Anthropic e Groq atrás da mesma interface.
 
-> O código é privado. Mostro o repositório e a arquitetura numa conversa.
-
-## 🤖 Minha equipe de agentes de código
-
-Desenvolvo a ClassCompute como uma pequena empresa de software: cada agente tem um papel, regras versionadas no repositório e limites do que pode fazer no GitHub. Nada entra sem a minha aprovação.
-
-**Issue** → **Planejador** (Claude Code) → **Implementador** (Codex) → **Revisor** (Codex, outro modelo) → **Integrador** (Gemini) → **minha aprovação** → **merge**
-
 ## 🧩 Outros projetos
 
 | Projeto | O que é | Feito com |
