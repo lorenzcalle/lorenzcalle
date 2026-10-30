@@ -31,8 +31,8 @@ Bacharel em Ciência da Computação (URI Santo Ângelo, 2026), em Santo Ângelo
 
 | Projeto | O que é | Feito com |
 |---|---|---|
-| **[Brinquedos Científicos](https://bc.san.uri.br)** · [código](https://github.com/lorenzcalle/site-brinquedos) | Site e painel para uma equipe sem perfil técnico editar brinquedos, eventos e materiais. Workers no servidor para a chave secreta nunca ir ao navegador e pré-renderização para SEO. | ![React](https://img.shields.io/badge/-React-0065FF?style=flat-square&logo=react&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-00BED3?style=flat-square&logo=supabase&logoColor=white) ![nginx](https://img.shields.io/badge/-nginx-74C82D?style=flat-square&logo=nginx&logoColor=white) |
-| **[Olimpíada Missioneira de Robótica](https://omr.san.uri.br)** | Site oficial da olimpíada, com hospedagem própria. Também fui mentor de programação em Arduino das equipes. | ![Linux](https://img.shields.io/badge/-Ubuntu%20Server-0065FF?style=flat-square&logo=linux&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-00BED3?style=flat-square&logo=wordpress&logoColor=white) |
+| **[Brinquedos Científicos](https://bc.san.uri.br)** · [código](https://github.com/lorenzcalle/site-brinquedos) | Site e painel para uma equipe sem perfil técnico editar brinquedos, eventos e materiais. Workers no servidor para a chave secreta nunca ir ao navegador e pré-renderização para SEO. | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=black" alt="Supabase" /> <img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white" alt="nginx" /> |
+| **[Olimpíada Missioneira de Robótica](https://omr.san.uri.br)** | Site oficial da olimpíada, com hospedagem própria. Também fui mentor de programação em Arduino das equipes. | <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu Server" /> <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" /> <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white" alt="Arduino" /> |
 
 ## ⚙️ No dia a dia
 
@@ -42,15 +42,39 @@ No suporte técnico em hospedagem e cloud, levo IA para a operação: processos 
 
 **IA e agentes**
 
-![Claude](https://img.shields.io/badge/Claude%20Code-0065FF?style=for-the-badge&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111735?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-00BED3?style=for-the-badge&logo=googlegemini&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-74C82D?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20%C2%B7%20FAISS-0065FF?style=for-the-badge)
-![Replit](https://img.shields.io/badge/Replit-00BED3?style=for-the-badge&logo=replit&logoColor=white)
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white" alt="Anthropic" />
+<img src="https://img.shields.io/badge/Codex-412991" alt="Codex" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/MCP-191919?logo=anthropic&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/RAG%20%C2%B7%20FAISS-0467DF" alt="RAG · FAISS" />
+<img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=white" alt="Replit" />
 
-**Construção e operação**
+**Construção**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,vite,tailwind,supabase,postgres,docker,gcp,cloudflare,linux,nginx,git,github,powershell&perline=8" alt="Python, FastAPI, TypeScript, React, Vite, Tailwind, Supabase, PostgreSQL, Docker, Google Cloud, Cloudflare, Linux, nginx, Git, GitHub, PowerShell" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" alt="pytest" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=black" alt="Supabase" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black" alt="Neon" />
+<img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" />
+
+**Infra e operação**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white" alt="nginx" />
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white" alt="cPanel" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE" alt="PowerShell" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:74C82D,50:00BED3,100:0065FF&height=110&section=footer" alt="" />
