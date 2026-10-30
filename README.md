@@ -42,39 +42,14 @@ No suporte técnico em hospedagem e cloud, levo IA para a operação: processos 
 
 **IA e agentes**
 
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white" alt="Anthropic" />
-<img src="https://img.shields.io/badge/Codex-412991" alt="Codex" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/MCP-191919?logo=anthropic&logoColor=white" alt="MCP" />
-<img src="https://img.shields.io/badge/RAG%20%C2%B7%20FAISS-0467DF" alt="RAG · FAISS" />
-<img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=white" alt="Replit" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white" alt="Anthropic" /> <img src="https://img.shields.io/badge/Codex-412991" alt="Codex" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/MCP-191919?logo=anthropic&logoColor=white" alt="MCP" /> <img src="https://img.shields.io/badge/RAG%20%C2%B7%20FAISS-0467DF" alt="RAG · FAISS" /> <img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=white" alt="Replit" />
 
 **Construção**
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" alt="pytest" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=black" alt="Supabase" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black" alt="Neon" />
-<img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" alt="pytest" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=black" alt="Supabase" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black" alt="Neon" /> <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" />
 
 **Infra e operação**
 
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white" alt="nginx" />
-<img src="https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white" alt="cPanel" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE" alt="PowerShell" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white" alt="nginx" /> <img src="https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white" alt="cPanel" /> <img src="https://img.shields.io/badge/PowerShell-5391FE" alt="PowerShell" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:74C82D,50:00BED3,100:0065FF&height=110&section=footer" alt="" />
