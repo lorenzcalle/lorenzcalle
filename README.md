@@ -27,45 +27,13 @@ Bacharel em Ciência da Computação (URI Santo Ângelo, 2026), em Santo Ângelo
 - **Avaliação antes de mudar.** Cada mudança de prompt ou de base passa por um conjunto fixo de pedidos, baseline e teste A/B pareado com avaliador cego. Ideia que não se confirma é revertida.
 - **Modelos intercambiáveis.** Gemini, OpenAI, Anthropic e Groq atrás da mesma interface.
 
-```mermaid
-flowchart LR
-    P([Professor: tema da aula]) --> R[RAG sobre o corpus da BNCC]
-    R --> D[Montagem determinística: habilidade, eixo, citações]
-    D --> L[LLM redige a atividade]
-    L --> O([Plano, roteiro, folha do aluno e rubrica em PDF])
-    classDef azul fill:#0065FF,stroke:#0065FF,color:#FFFEFA
-    classDef ciano fill:#00BED3,stroke:#00BED3,color:#111735
-    classDef verde fill:#74C82D,stroke:#74C82D,color:#111735
-    class P,O azul
-    class R,D ciano
-    class L verde
-```
-
 > O código é privado. Mostro o repositório e a arquitetura numa conversa.
 
 ## 🤖 Minha equipe de agentes de código
 
 Desenvolvo a ClassCompute como uma pequena empresa de software: cada agente tem um papel, regras versionadas no repositório e limites do que pode fazer no GitHub. Nada entra sem a minha aprovação.
 
-```mermaid
-flowchart LR
-    I([Issue]) --> PL[Planejador<br/>Claude Code]
-    PL --> IM[Implementador<br/>Codex]
-    IM --> RV[Revisor<br/>Codex, outro modelo]
-    RV -- defeitos --> IM
-    RV --> IN[Integrador<br/>Gemini]
-    IN --> A{{Minha aprovação}}
-    A --> M([Merge])
-    classDef azul fill:#0065FF,stroke:#0065FF,color:#FFFEFA
-    classDef ciano fill:#00BED3,stroke:#00BED3,color:#111735
-    classDef verde fill:#74C82D,stroke:#74C82D,color:#111735
-    classDef tinta fill:#111735,stroke:#111735,color:#FFFEFA
-    class I,M tinta
-    class PL azul
-    class IM,RV ciano
-    class IN verde
-    class A tinta
-```
+**Issue** → **Planejador** (Claude Code) → **Implementador** (Codex) → **Revisor** (Codex, outro modelo) → **Integrador** (Gemini) → **minha aprovação** → **merge**
 
 ## 🧩 Outros projetos
 
