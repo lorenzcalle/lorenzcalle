@@ -7,6 +7,7 @@
 - 💬 Trabalho com suporte numa empresa de hospedagem
 - 🤖 Se dá pra automatizar, automatizo
 - 📍 Santo Ângelo, RS
+- ⚡ Curiosidade: gosto de robótica
 
 **Me encontra por aí:**
 
