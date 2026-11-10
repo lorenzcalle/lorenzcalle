@@ -24,7 +24,7 @@
 <h3>ClassCompute</h3>
 <sub>Aula de computação pronta, ligada à BNCC</sub>
 <br /><br />
-<img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,postgres,gcp" width="204" alt="Python, FastAPI, React, TypeScript, PostgreSQL, Google Cloud" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,tailwind,postgres,docker,gcp" width="240" alt="Python, FastAPI, React, TypeScript, Tailwind CSS, PostgreSQL, Docker, Google Cloud" />
 <br /><br />
 <a href="https://classcompute.com.br">Site</a> · <a href="https://app.classcompute.com.br">App</a>
 </td>
@@ -33,7 +33,7 @@
 <h3>Brinquedos Científicos</h3>
 <sub>Site e painel do projeto da URI</sub>
 <br /><br />
-<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase,nginx" width="204" alt="React, TypeScript, Vite, Tailwind CSS, Supabase, nginx" />
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase,nginx" width="180" alt="React, TypeScript, Vite, Tailwind CSS, Supabase, nginx" />
 <br /><br />
 <a href="https://bc.san.uri.br">Site</a> · <a href="https://github.com/lorenzcalle/site-brinquedos">Código</a>
 </td>
@@ -42,7 +42,7 @@
 <h3>OMR</h3>
 <sub>Olimpíada Missioneira de Robótica</sub>
 <br /><br />
-<img src="https://skillicons.dev/icons?i=wordpress,ubuntu,arduino" width="102" alt="WordPress, Ubuntu Server, Arduino" />
+<img src="https://skillicons.dev/icons?i=astro,tailwind,ubuntu,arduino" width="120" alt="Astro, Tailwind CSS, Ubuntu, Arduino" />
 <br /><br />
 <a href="https://omr.san.uri.br">Site</a>
 </td>
